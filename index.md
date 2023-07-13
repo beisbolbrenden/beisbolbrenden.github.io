@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Pop Producer Social Network Analysis](/)
+- [Pop Producer Social Network Analysis](Pop_Producers_Final.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
