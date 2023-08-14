@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Pop Producer Social Network Analysis](Pop_Producers_Final.html)
-- [Reddit Large Dataset Analysis with PySpark](Group Project Final Workbook.html)
+- [Reddit Large Dataset Analysis with PySpark](Workbook.html)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
