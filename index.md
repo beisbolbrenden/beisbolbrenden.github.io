@@ -14,9 +14,6 @@
 
 - [Pop Producer Social Network Analysis](Pop_Producers_Final.html)
 - [Reddit Large Dataset Analysis with PySpark](Group_Project_Final_Workbook.html)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
