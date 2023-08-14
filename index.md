@@ -7,13 +7,6 @@
 [ChatGPT Audit for Relativity](https://drive.google.com/file/d/1FuL7QGcW_hX7v4qCr2XyJIdzJbwCpj5J/view?usp=sharing)
 <img src="relativity.jpeg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
