@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [ChatGPT Audit for Relativity](/sample_page)
-<img src="images/relativity.jpeg?raw=true"/>
+<img src="relativity.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
