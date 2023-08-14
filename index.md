@@ -4,7 +4,7 @@
 
 ### Presentations
 
-[ChatGPT Audit for Relativity](/sample_page)
+[ChatGPT Audit for Relativity](https://drive.google.com/file/d/1FuL7QGcW_hX7v4qCr2XyJIdzJbwCpj5J/view?usp=sharing)
 <img src="relativity.jpeg?raw=true"/>
 
 ---
