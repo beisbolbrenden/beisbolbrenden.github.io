@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Presentations
 
 [ChatGPT Audit for Relativity](/sample_page)
 <img src="relativity.jpeg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Workbooks
 
 - [Pop Producer Social Network Analysis](Pop_Producers_Final.html)
 - [Reddit Large Dataset Analysis with PySpark](Group_Project_Final_Workbook.html)
