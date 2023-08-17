@@ -12,9 +12,10 @@
 
 ### Workbooks
 
+- [Linear Regression for Washington Nationals Attendance](Brenden_Moore_Assignment_1.pdf)
 - [Pop Producer Social Network Analysis](Pop_Producers_Final.html)
 - [Reddit Large Dataset Analysis with PySpark](Group_Project_Final_Workbook.html)
-
+  
 ---
 
 
